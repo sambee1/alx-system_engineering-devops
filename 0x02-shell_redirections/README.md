@@ -1,1 +1,1 @@
-These scripts are responsible for redirections in the shell
+The SCripts for shell redirections

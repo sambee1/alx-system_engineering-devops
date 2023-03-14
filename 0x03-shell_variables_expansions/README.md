@@ -1,1 +1,1 @@
-Files in this folder are for shell expansions and initializations
+The scripts in this directory are for shell inits and expansions
